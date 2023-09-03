@@ -1,0 +1,4 @@
+[{"fullname":"Yogita Pawar","gender":"female","mobile":"09527381505","email":"yogitapawar8499@gmail.com","username":"didu","password":"123"},
+{"fullname":"Jayashri Pawar","gender":"female","mobile":"589746321","email":"jayashri@admin","username":"jaya","password":"111"},
+{"fullname":"Nirmal Pawar","gender":"male","mobile":"09527381505","email":"nirmal@gmail.com","username":"Nirmal","password":"147"},
+{"fullname":"Sunita Pawar","gender":"female","mobile":"8686959574","email":"sunita@gmail.com","username":"Sunita","password":"111"}]

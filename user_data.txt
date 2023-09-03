@@ -1,0 +1,6 @@
+{"fullname":"Yogita Pawar","gender":"female","mobile":"09527381505","email":"yogitapawar8499@gmail.com","username":"didu","password":"123"}
+{"fullname":"Jayashri Pawar","gender":"female","mobile":"589746321","email":"jayashri@admin","username":"jaya","password":"111"}
+{"fullname":"Nirmal Pawar","gender":"male","mobile":"09527381505","email":"nirmal@gmail.com","username":"Nirmal","password":"147"}
+{"fullname":"Sunita Pawar","gender":"female","mobile":"8686959574","email":"sunita@gmail.com","username":"Sunita","password":"111"}
+{"fullname":"Devidas pawar","gender":"male","mobile":"546987215","email":"devidas@gmail.com","username":"Deva","password":"111","pic":"2b276b126a8932e763210768b748d76f"}
+{"fullname":"Mau More","gender":"female","mobile":"5689","email":"mau@gmail.com","username":"mau","password":"111","pic":"IMG_9485_resize.JPG"}
